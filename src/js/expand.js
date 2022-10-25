@@ -20,6 +20,5 @@ const showMoreInfo = function (i, text) {
       changeBtnText(text)
    })
 }
-showMoreInfo(0, 'Читать далее')
 showMoreInfo(1, 'Показать все')
 showMoreInfo(2, 'Показать все')

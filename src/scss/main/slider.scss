@@ -31,12 +31,9 @@
          margin: 0;
       }
 
-      &:hover {
-         box-shadow: 0 0 5px 0 gray;
          & .circle__link {
             transform: scale(0.95) translate(1px, 0);
          }
-      }
 
       &:last-child {
          margin-right: 16px;
