@@ -24,7 +24,7 @@
 
    &__card {
       width: auto;
-      transition: all linear.25s;
+      transition: all linear 25s;
       margin-left: 16px;
       border-radius: 6px;
       @media (min-width: $tablet) {

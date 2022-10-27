@@ -1,17 +1,15 @@
-/*Модальнке окна*/
+
 const modalCall = document.querySelector('.modal-call')
 const modalFeedback = document.querySelector('.modal-feedback')
 const modalMenu = document.querySelector('.left-menu')
 const overlay = document.querySelector('.overlay')
 
-/*Кнопки */
 const callBtn = document.querySelectorAll('.call-btn')
 const feedbackBtn = document.querySelectorAll('.feedback-btn')
 const menuBtn = document.querySelector('.menu-btn')
 const closeModal = document.querySelectorAll('.modal__close-btn')
 const closeMenu = document.querySelector('.close-menu')
 
-/*Заказать звонок*/
 for (let i = 0; i < callBtn.length; i++) {
    callBtn[i].addEventListener('click', function () {
       modalCall.classList.remove('modal__hidden')

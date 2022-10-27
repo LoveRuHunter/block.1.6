@@ -3,9 +3,7 @@ const expandBtn = document.querySelectorAll('.expand-btn')
 const expandBtnText = document.querySelectorAll('.expand-btn__text')
 const hide = 'Скрыть'
 
-/* Фунция  показать больше*/
 const showMoreInfo = function (i, text) {
-   // i - индекс expandArea., text - изначальный текст кнопки
    expandBtn[i].addEventListener('click', function () {
       expandArea[i].classList.toggle('expand-btn-active')
       expandBtn[i].classList.toggle('expand-btn--rotate')
