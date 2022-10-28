@@ -11,7 +11,7 @@
    &__card {
       position: relative;
       @media (min-width: $tablet) {
-         /*Нижнее подчеркивание у карточек*/
+
          &:not(:first-child):not(:last-child)::after {
             content: '';
             position: absolute;
