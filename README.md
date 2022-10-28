@@ -4,4 +4,4 @@
 - [NVM/Windows](https://github.com/coreybutler/nvm-windows/releases) Если Windows то установка только от имени администратора
 - [Yarn](https://yarnpkg.com/)
 
-
+Ссылка https://LoveRuHunter.github.io/block.1.6/
