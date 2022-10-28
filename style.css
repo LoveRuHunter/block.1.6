@@ -613,7 +613,7 @@ body {
   @media (min-width: 1366px) {
     .left-menu {
       z-index: 9;
-      left: calc((100% - 1366px) / 2); } }
+     }
   .left-menu__wrapper {
     height: calc(100vh - 40px);
     display: flex;
