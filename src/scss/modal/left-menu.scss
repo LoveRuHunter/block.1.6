@@ -25,7 +25,6 @@
 
    @media (min-width: $desktop-max) {
       z-index: 9;
-      left: calc((100% - 1366px) / 2);
    }
 
    &__wrapper {
