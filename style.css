@@ -267,7 +267,7 @@ body {
   .main__heading {
     padding: 16px 16px;
     border-top: 1px solid #d9fff5;
-    background: linear-gradient(90deg, #f8f8f8, #ffffff); }
+   background: linear-gradient(270deg, #F8F8F8 0%, #FFFFFF 98.61%); }
     @media (min-width: 768px) and (max-width: 1045px) {
       .main__heading {
         padding: 16px 24px; } }
